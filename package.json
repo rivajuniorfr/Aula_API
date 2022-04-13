@@ -1,7 +1,6 @@
 {
-  "name": "AULA_API",
+  "name": "getapi",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,6 +17,9 @@
   },
   "homepage": "https://github.com/rivajuniorfr/Aula_API#readme",
   "dependencies": {
+    "axios": "^0.26.1",
     "express": "^4.17.3"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
